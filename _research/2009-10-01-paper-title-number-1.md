@@ -1,6 +1,6 @@
 ---
 title: "The Inherent Limits of Pretrained LLMs: The Unexpected Convergence of Instruction Tuning and In-Context Learning Capabilities"
-collection: publications
+collection: research
 category: manuscripts
 permalink: /publication/inherent-limits-plms
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
