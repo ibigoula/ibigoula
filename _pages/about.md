@@ -15,4 +15,4 @@ Currently I'm working on:
 * In-context learning
 * Mechanistic interpretability
 
-I previously obtained my M.Sc. degree at the Ludwig-Maximilians-Universität München (LMU) under the supervision of Dr. Alexander Fraser. There I focused on cross-lingual transfer learning. I obtained my B.Sc. in theoretical linguistics and philosophy from the University of Florida.
+I previously obtained my M.Sc. degree at the Ludwig-Maximilians-Universität München (LMU) under the supervision of Dr. Alexander Fraser. There I focused on cross-lingual transfer learning. Before that, I obtained my B.Sc. in theoretical linguistics and philosophy from the University of Florida.
