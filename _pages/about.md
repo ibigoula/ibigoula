@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Hello! 👋 I'm currently a fourth-year PhD student in Natural Language Processing at the Ubiquitous Knowledge Processing (UKP) Lab at the TU Darmstadt, supervised by Prof. Dr. Iryna Gurevych. My research focuses on the field of interpretability, especially for LLMs and LRMs. 
+Hello! 👋 I'm currently a fourth-year PhD student in Natural Language Processing at the Ubiquitous Knowledge Processing (UKP) Lab at the TU Darmstadt, supervised by Prof. Dr. Iryna Gurevych. My research focuses on LLM interpretability. In particular, I'm interested in explaining how LLMs acquire complex abilities like reasoning and instruction-following.
 
 Currently I'm working on:
 
-* Post-training, particularly instruction-tuning
+* Post-training
 * In-context learning
 * Mechanistic interpretability
 
